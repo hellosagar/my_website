@@ -1,12 +1,14 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Freelance Android Developer'
+company: 'Upwork and Fiverr'
+location: 'Remote'
+range: 'Feb 2020 - Dec 2020'
+url: 'https://linktr.ee/hellosagar'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Worked part‑time during studies on 65+ jobs to help clients in modifying the existing android app written in Kotlin/Java to correct coding
+errors, upgrade interfaces, and improve overall performance
+- Implemented various REST API and integrate them to get the data in form of JSON from the database and posting the user input
+- Enhanced the performance of legacy android source code using cache and storing data in Room to persist data locally and migrating the source
+code to Kotlin, using Coroutines to avoid callback hell which increases the readability of the source code and easy to maintain

@@ -331,7 +331,7 @@ const Featured = () => {
                   </a>
                 </div>
               </StyledProject>
-            );
+              );
           })}
       </div>
     </section>

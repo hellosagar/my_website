@@ -1,14 +1,19 @@
 ---
 date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+title: 'MedyCare'
+# github: ''
+external: 'https://play.google.com/store/apps/details?id=com.kai.infomed'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Android
+  - Java
+  - Kotlin
+  - AWS Amplify
+  - GraphQL
+  - AWS Cognito
+  - AWS AppSync
+
+company: 'Kai InfoTech'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Designed Care for Patients. Create, own, and personalise your health care anywhere

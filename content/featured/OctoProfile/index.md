@@ -1,14 +1,13 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'AssignmentHub'
+cover: './banner.png'
+github: 'https://github.com/hellosagar/AssigmentHub'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Kotlin
+  - Android
+  - AWS Amplify
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+AssigmentHub is a assignment manager android application  to help teachers to mange assignments in University, built with use of modern android development tools. Got runner up position in [AWS Amplify hackthon on Hashnode](https://hellosagar.hashnode.dev/assignmenthub-an-app-to-manage-assignments-for-university-professors-aws-amplify-hackathon?guid=8a5e65b7-6672-42d0-93bc-fd3cdb04612d&deviceId=bf3b6133-4458-43f4-a752-787216e11f65)
